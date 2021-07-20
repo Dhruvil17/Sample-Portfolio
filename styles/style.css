@@ -25,3 +25,12 @@ body {
 .intro h3 {
 	font-weight: 400;
 }
+
+div a {
+	color: black;
+	padding: 20px;
+}
+
+div a:hover {
+	color: blue;
+}
