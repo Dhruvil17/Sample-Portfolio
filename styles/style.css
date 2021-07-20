@@ -1,12 +1,12 @@
 body {
 	background-color: #dae4ee;
-	overflow-y: hidden;
 }
 
 .home {
 	height: 100vh;
 	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)),
 		url("../images/pexels-olia-danilevich-4974914.jpg");
+	overflow-y: hidden;
 }
 
 .intro {
