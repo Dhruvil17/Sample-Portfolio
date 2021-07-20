@@ -34,3 +34,11 @@ div a {
 div a:hover {
 	color: blue;
 }
+
+h6 {
+	margin-right: 50px;
+}
+
+.progress {
+	margin-top: 25px;
+}
